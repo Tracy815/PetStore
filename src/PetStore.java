@@ -30,7 +30,7 @@ public class PetStore {
         Pet dog = new Pet("Dog", "Coco");
         System.out.println("My Dog's name is: " + dog.getName());
         // what will this print out?
-        // 
+       
         System.out.println("Dog object is:  " + dog);
 
     }
